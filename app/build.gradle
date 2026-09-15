@@ -184,8 +184,6 @@ dependencies {
     //DoubleTapPlayerView
     implementation 'com.github.vkay94:DoubleTapPlayerView:1.0.4'
 
-    //BoxedVerticalSeekBar
-    implementation 'com.github.alpbak:BoxedVerticalSeekBar:1.1.1'
 
     //Room
     implementation "androidx.room:room-runtime:2.4.2"

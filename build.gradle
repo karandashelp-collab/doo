@@ -39,8 +39,6 @@ allprojects {
             url "https://artifactory.paytm.in/libs-release-local"
         }
         maven {
-            url  "https://cardinalcommerceprod.jfrog.io/artifactory/android"
-        }
         maven {
             url 'https://oss.sonatype.org/content/repositories/snapshots/'
         }
