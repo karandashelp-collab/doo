@@ -39,7 +39,6 @@ allprojects {
             url "https://artifactory.paytm.in/libs-release-local"
         }
         maven {
-        maven {
             url 'https://oss.sonatype.org/content/repositories/snapshots/'
         }
     }
